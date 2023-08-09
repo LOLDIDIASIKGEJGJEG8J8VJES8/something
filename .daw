@@ -1,1 +1,7 @@
-{"n1san1 VAPE PRIVATE": [{"id": "4850521657", "attackable": false}]}
+{
+    "n1san1": {
+        "4850521657": {
+            "attackable": true
+        }
+    }
+}
